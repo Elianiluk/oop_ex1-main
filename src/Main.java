@@ -4,7 +4,7 @@ import javax.swing.*;
 import javax.swing.plaf.ColorUIResource;
 import java.awt.*;
 
-public class Main {
+public class Main {//
     /**
      * The Main function to start the game.
      * Don't make any changes here
